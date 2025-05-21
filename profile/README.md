@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/IEEE_logo.svg" width="120" alt="IEEE Logo"/>
   <br>
   <img src="https://img.icons8.com/color/452/artificial-intelligence.png" width="100" alt="AI Icon"/>
 </p>
@@ -24,19 +23,23 @@ Nuestro objetivo es inspirar, educar y conectar a la comunidad interesada en AI 
 
 ## 🌟 Proyectos Destacados
 
-- 🧠 <b>Emotion Detection API</b> – API abierta para el reconocimiento de emociones en tiempo real.
-- 🤝 <b>AI for Mental Health</b> – Soluciones AI para el bienestar emocional.
-- 📊 <b>Workshops & Demos</b> – Talleres interactivos y demostraciones en vivo.
+- 🤖 [emotion-transformer-text](https://github.com/EmotionAI-Conescapan-IEEE/emotion-transformer-text)  
+  Modelo avanzado de detección de emociones en texto usando Transformers (BERT y similares) mediante fine-tuning.
 
-[¡Explora todos nuestros proyectos aquí!](https://github.com/EmotionAI-Conescapan-IEEE?tab=repositories)
+- 🧬 [emotion-cnn-lstm](https://github.com/EmotionAI-Conescapan-IEEE/emotion-cnn-lstm)  
+  Modelo de Deep Learning (LSTM) para la detección de emociones en texto usando embeddings.
+
+- 🛠️ [emotion-traditional-ml](https://github.com/EmotionAI-Conescapan-IEEE/emotion-traditional-ml)  
+  Modelos tradicionales de Machine Learning para detección de emociones en texto e imágenes. Enfoque explicable y rápido para resultados iniciales sólidos.
+
+[¡Explora todos nuestros proyectos aquí!](https://github.com/orgs/EmotionAI-Conescapan-IEEE/repositories)
 
 ---
 
 ## 🌎 Conéctate con nosotros
 
-- 📧 Email: [emotionai.ieee@gmail.com](mailto:emotionai.ieee@gmail.com)
+- 📧 Email: [00083521@uca.edu.sv](00083521@uca.edu.sv)
 - 🌐 [Sitio web oficial](https://ieee.org)
-- 💬 [Únete a la comunidad](https://discord.gg/ieee)
 
 ---
 
